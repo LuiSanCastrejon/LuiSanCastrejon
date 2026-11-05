@@ -1,28 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="3.er lugar en el Hackathon de IA por el Bien Común y proyecto Atenea, asistente de voz con IA que corre 100 % en local">
-  <rect width="1200" height="290" fill="#08040f"/>
-
-  <!-- Tarjeta 1: reconocimiento -->
-  <g>
-    <polygon points="2,2 548,2 588,42 588,288 42,288 2,248" fill="#0d0716" stroke="#ff1744" stroke-width="2"/>
-    <text x="40" y="50" font-family="'Courier New',Consolas,monospace" font-size="14" letter-spacing="5" fill="#ff1744">RECONOCIMIENTO 01</text>
-    <text x="36" y="188" font-family="Impact,'Arial Black','Haettenschweiler',sans-serif" font-size="140" textLength="165" lengthAdjust="spacingAndGlyphs" fill="#ff1744">#3</text>
-    <text x="222" y="112" font-family="Impact,'Arial Black','Haettenschweiler',sans-serif" font-size="30" textLength="170" lengthAdjust="spacingAndGlyphs" fill="#f5ecff">3.ER LUGAR</text>
-    <text x="222" y="146" font-family="'Courier New',Consolas,monospace" font-size="16" font-weight="bold" fill="#c084fc">Hackathon de IA por el Bien Común</text>
-    <text x="222" y="176" font-family="'Courier New',Consolas,monospace" font-size="14" fill="#9a86b5">Octubre 2026 · Plataforma Saptiva</text>
-    <text x="222" y="204" font-family="'Courier New',Consolas,monospace" font-size="14" fill="#9a86b5">Proyecto: Sistema Inteligente de</text>
-    <text x="222" y="224" font-family="'Courier New',Consolas,monospace" font-size="14" fill="#9a86b5">Información Ambiental</text>
-    <text x="40" y="262" font-family="'Courier New',Consolas,monospace" font-size="14" font-weight="bold" letter-spacing="2" fill="#ff1744">♝ PODIO</text>
-  </g>
-
-  <!-- Tarjeta 2: proyecto destacado -->
-  <g transform="translate(612,0)">
-    <polygon points="2,2 548,2 588,42 588,288 42,288 2,248" fill="#0d0716" stroke="#a855f7" stroke-width="2"/>
-    <text x="40" y="50" font-family="'Courier New',Consolas,monospace" font-size="14" letter-spacing="5" fill="#ff1744">PROYECTO DESTACADO</text>
-    <text x="36" y="188" font-family="Impact,'Arial Black','Haettenschweiler',sans-serif" font-size="140" textLength="165" lengthAdjust="spacingAndGlyphs" fill="#c084fc">AI</text>
-    <text x="222" y="112" font-family="Impact,'Arial Black','Haettenschweiler',sans-serif" font-size="30" textLength="130" lengthAdjust="spacingAndGlyphs" fill="#f5ecff">ATENEA</text>
-    <text x="222" y="146" font-family="'Courier New',Consolas,monospace" font-size="16" font-weight="bold" fill="#c084fc">Asistente de voz con IA 100 % local</text>
-    <text x="222" y="176" font-family="'Courier New',Consolas,monospace" font-size="14" fill="#9a86b5">Python · llama.cpp (Qwen3-4B) · Flask</text>
-    <text x="222" y="204" font-family="'Courier New',Consolas,monospace" font-size="14" fill="#9a86b5">Wake word, ASR, LLM y voz sin nube</text>
-    <text x="40" y="262" font-family="'Courier New',Consolas,monospace" font-size="14" font-weight="bold" letter-spacing="2" fill="#c084fc">♞ JUGADA LOCAL</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Podio: 3.er lugar en el Hackathon de IA por el Bien Común, octubre 2026">
+<defs>
+<linearGradient id="pawnG" gradientUnits="userSpaceOnUse" x1="560" y1="104" x2="640" y2="252"><stop offset="0" stop-color="#c084fc"/><stop offset="1" stop-color="#ff2a55"/></linearGradient>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="7"/></filter>
+<filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+<linearGradient id="tileG" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b0e31"/><stop offset="1" stop-color="#0b0617"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a855f7" stop-opacity="0.9"/><stop offset="1" stop-color="#ff2a55" stop-opacity="0.8"/></linearGradient>
+<linearGradient id="blk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#34196a"/><stop offset="1" stop-color="#160a2b"/></linearGradient>
+<linearGradient id="blkR" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff2a55"/><stop offset="1" stop-color="#6d1a8c"/></linearGradient>
+<linearGradient id="floor" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a855f7" stop-opacity="0"/><stop offset="0.5" stop-color="#c084fc"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></linearGradient>
+<linearGradient id="div" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#ff2a55" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="340" rx="26" fill="url(#tileG)" stroke="url(#edge)" stroke-width="1.4"/>
+<rect x="330" y="244" width="120" height="56" rx="8" fill="#ff2a55" opacity="0.55" filter="url(#glow)"/>
+<rect x="70" y="220" width="120" height="80" rx="8" fill="url(#blk)" stroke="#c084fc" stroke-opacity="0.35"/><text x="130" y="274" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="800" fill="#f3e8ff" opacity="0.5">2</text><rect x="200" y="180" width="120" height="120" rx="8" fill="url(#blk)" stroke="#c084fc" stroke-opacity="0.35"/><text x="260" y="254" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="800" fill="#f3e8ff" opacity="0.5">1</text><rect x="330" y="244" width="120" height="56" rx="8" fill="url(#blkR)" stroke="#c084fc" stroke-opacity="0.35"/><text x="390" y="286" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="800" fill="#f3e8ff" opacity="1.0">3</text><rect x="40" y="300" width="450" height="2" fill="url(#floor)"/>
+<g transform="translate(390,244) scale(0.5) translate(-600,-252)" filter="url(#glow)" opacity="0.80"><circle cx="600" cy="128" r="24" fill="#ff2a55"/><ellipse cx="600" cy="154" rx="25" ry="7" fill="#ff2a55"/><path d="M584 156 C586 190 572 206 564 228 L636 228 C628 206 614 190 616 156 Z" fill="#ff2a55"/><rect x="552" y="226" width="96" height="14" rx="7" fill="#ff2a55"/><rect x="540" y="238" width="120" height="14" rx="7" fill="#ff2a55"/></g><g transform="translate(390,244) scale(0.5) translate(-600,-252)" opacity="1.0"><circle cx="600" cy="128" r="24" fill="url(#pawnG)"/><ellipse cx="600" cy="154" rx="25" ry="7" fill="url(#pawnG)"/><path d="M584 156 C586 190 572 206 564 228 L636 228 C628 206 614 190 616 156 Z" fill="url(#pawnG)"/><rect x="552" y="226" width="96" height="14" rx="7" fill="url(#pawnG)"/><rect x="540" y="238" width="120" height="14" rx="7" fill="url(#pawnG)"/><ellipse cx="591" cy="120" rx="6" ry="4" fill="#ffffff" opacity="0.35"/></g><text x="390" y="156" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="4" fill="#ff2a55">LUIS</text>
+<text x="260" y="168" text-anchor="middle" font-family="'Segoe UI Symbol','Apple Symbols','Noto Sans Symbols 2','DejaVu Sans',sans-serif" font-size="34" fill="#c084fc" opacity="0.3">♛︎</text>
+<text x="560" y="62" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="5" fill="#ff2a55">RECONOCIMIENTO</text><text x="560" y="122" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="700" fill="#f3e8ff">3.er lugar</text><text x="560" y="162" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" fill="#c084fc">Hackathon de IA por el Bien Común</text><text x="560" y="190" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#9a86b5">Octubre 2026 · Plataforma Saptiva</text><rect x="560" y="212" width="580" height="1.5" fill="url(#div)"/><text x="560" y="246" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="5" fill="#ff2a55">PROYECTO PREMIADO</text><text x="560" y="276" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="600" fill="#f3e8ff">Sistema Inteligente de Información Ambiental</text><text x="560" y="304" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9a86b5">Asistente multiagente que cita fuente, variable, periodo y limitaciones.</text>
 </svg>

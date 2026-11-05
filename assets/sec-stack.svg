@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70" role="img" aria-label="Stack">
+<defs>
+<linearGradient id="l1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a855f7" stop-opacity="0"/><stop offset="1" stop-color="#a855f7"/></linearGradient><linearGradient id="l2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff2a55"/><stop offset="1" stop-color="#ff2a55" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="70" fill="#07030f"/>
+<rect x="60" y="43.5" width="442" height="1.5" fill="url(#l1)"/>
+<rect x="698" y="43.5" width="442" height="1.5" fill="url(#l2)"/>
+<rect x="508" y="40" width="8" height="8" fill="#ff2a55" transform="rotate(45 512 44)"/>
+<rect x="684" y="40" width="8" height="8" fill="#a855f7" transform="rotate(45 688 44)"/>
+<text x="600" y="20" text-anchor="middle" font-family="'Segoe UI Symbol','Apple Symbols','Noto Sans Symbols 2','DejaVu Sans',sans-serif" font-size="15" fill="#ff2a55" opacity="0.85">♜︎</text>
+<text x="600" y="52" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="300" letter-spacing="10" fill="#f3e8ff">STACK</text>
+</svg>
