@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Luis Santiago Castrejón Paulino - IA aplicada, sistemas multiagente y LLM locales">
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#a855f7" stroke-opacity="0.09"/>
+    </pattern>
+    <pattern id="chk" width="40" height="40" patternUnits="userSpaceOnUse">
+      <rect width="20" height="20" fill="#a855f7" fill-opacity="0.55"/>
+      <rect x="20" y="20" width="20" height="20" fill="#a855f7" fill-opacity="0.55"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="330" fill="#08040f"/>
+  <rect width="1200" height="330" fill="url(#grid)"/>
+
+  <!-- Barras laterales -->
+  <rect x="0" y="20" width="16" height="290" fill="#a855f7"/>
+  <rect x="0" y="130" width="16" height="70" fill="#ff1744"/>
+
+  <!-- Detalles superiores -->
+  <polygon points="1010,20 1070,20 1056,44 996,44" fill="#ff1744"/>
+  <polygon points="1086,20 1200,20 1200,44 1072,44" fill="#a855f7"/>
+
+  <!-- Pieza de ajedrez de fondo -->
+  <text x="1025" y="235" font-size="140" fill="#a855f7" fill-opacity="0.13" font-family="'Segoe UI Symbol','Apple Symbols','DejaVu Sans',sans-serif">♞</text>
+
+  <!-- Marco -->
+  <polygon points="40,56 1090,56 1160,108 1160,252 90,252 40,204" fill="#0d0716" fill-opacity="0.75" stroke="#a855f7" stroke-width="2"/>
+  <path d="M52 78 V68 H66" fill="none" stroke="#ff1744" stroke-width="2"/>
+  <path d="M1148 240 V234 H1134" fill="none" stroke="#ff1744" stroke-width="2"/>
+
+  <text x="72" y="92" font-family="'Courier New',Consolas,monospace" font-size="15" letter-spacing="5" fill="#ff1744">PERFIL PROFESIONAL</text>
+
+  <!-- Nombre con efecto glitch -->
+  <text x="75" y="173" font-family="Impact,'Arial Black','Haettenschweiler',sans-serif" font-size="50" textLength="860" lengthAdjust="spacingAndGlyphs" fill="#ff1744" fill-opacity="0.85">LUIS SANTIAGO CASTREJÓN PAULINO</text>
+  <text x="72" y="170" font-family="Impact,'Arial Black','Haettenschweiler',sans-serif" font-size="50" textLength="860" lengthAdjust="spacingAndGlyphs" fill="#e9d5ff">LUIS SANTIAGO CASTREJÓN PAULINO</text>
+
+  <text x="72" y="208" font-family="'Courier New',Consolas,monospace" font-size="22" font-weight="bold" fill="#c084fc">IA APLICADA · SISTEMAS MULTIAGENTE · LLM LOCALES</text>
+  <text x="72" y="236" font-family="'Courier New',Consolas,monospace" font-size="15" fill="#9a86b5">Universidad Iberoamericana · Ciudad de México</text>
+
+  <!-- Línea inferior -->
+  <text x="72" y="283" font-family="'Courier New',Consolas,monospace" font-size="16" font-weight="bold" fill="#e9d5ff">Ingeniería en Mecatrónica y Sistemas Ciberfísicos</text>
+  <polygon points="730,262 1160,262 1160,292 710,292" fill="#ff1744"/>
+  <text x="935" y="282" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="15" font-weight="bold" fill="#08040f">♛ 3.ER LUGAR · HACKATHON IA POR EL BIEN COMÚN</text>
+
+  <!-- Franja de tablero -->
+  <rect x="16" y="300" width="1184" height="20" fill="url(#chk)"/>
+
+  <!-- Scanline animada -->
+  <rect width="1200" height="2" fill="#c084fc" opacity="0.22">
+    <animate attributeName="y" from="0" to="330" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

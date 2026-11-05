@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="3.er lugar en el Hackathon de IA por el Bien Común y proyecto Atenea, asistente de voz con IA que corre 100 % en local">
+  <rect width="1200" height="290" fill="#08040f"/>
+
+  <!-- Tarjeta 1: reconocimiento -->
+  <g>
+    <polygon points="2,2 548,2 588,42 588,288 42,288 2,248" fill="#0d0716" stroke="#ff1744" stroke-width="2"/>
+    <text x="40" y="50" font-family="'Courier New',Consolas,monospace" font-size="14" letter-spacing="5" fill="#ff1744">RECONOCIMIENTO 01</text>
+    <text x="36" y="188" font-family="Impact,'Arial Black','Haettenschweiler',sans-serif" font-size="140" textLength="165" lengthAdjust="spacingAndGlyphs" fill="#ff1744">#3</text>
+    <text x="222" y="112" font-family="Impact,'Arial Black','Haettenschweiler',sans-serif" font-size="30" textLength="170" lengthAdjust="spacingAndGlyphs" fill="#f5ecff">3.ER LUGAR</text>
+    <text x="222" y="146" font-family="'Courier New',Consolas,monospace" font-size="16" font-weight="bold" fill="#c084fc">Hackathon de IA por el Bien Común</text>
+    <text x="222" y="176" font-family="'Courier New',Consolas,monospace" font-size="14" fill="#9a86b5">Octubre 2026 · Plataforma Saptiva</text>
+    <text x="222" y="204" font-family="'Courier New',Consolas,monospace" font-size="14" fill="#9a86b5">Proyecto: Sistema Inteligente de</text>
+    <text x="222" y="224" font-family="'Courier New',Consolas,monospace" font-size="14" fill="#9a86b5">Información Ambiental</text>
+    <text x="40" y="262" font-family="'Courier New',Consolas,monospace" font-size="14" font-weight="bold" letter-spacing="2" fill="#ff1744">♝ PODIO</text>
+  </g>
+
+  <!-- Tarjeta 2: proyecto destacado -->
+  <g transform="translate(612,0)">
+    <polygon points="2,2 548,2 588,42 588,288 42,288 2,248" fill="#0d0716" stroke="#a855f7" stroke-width="2"/>
+    <text x="40" y="50" font-family="'Courier New',Consolas,monospace" font-size="14" letter-spacing="5" fill="#ff1744">PROYECTO DESTACADO</text>
+    <text x="36" y="188" font-family="Impact,'Arial Black','Haettenschweiler',sans-serif" font-size="140" textLength="165" lengthAdjust="spacingAndGlyphs" fill="#c084fc">AI</text>
+    <text x="222" y="112" font-family="Impact,'Arial Black','Haettenschweiler',sans-serif" font-size="30" textLength="130" lengthAdjust="spacingAndGlyphs" fill="#f5ecff">ATENEA</text>
+    <text x="222" y="146" font-family="'Courier New',Consolas,monospace" font-size="16" font-weight="bold" fill="#c084fc">Asistente de voz con IA 100 % local</text>
+    <text x="222" y="176" font-family="'Courier New',Consolas,monospace" font-size="14" fill="#9a86b5">Python · llama.cpp (Qwen3-4B) · Flask</text>
+    <text x="222" y="204" font-family="'Courier New',Consolas,monospace" font-size="14" fill="#9a86b5">Wake word, ASR, LLM y voz sin nube</text>
+    <text x="40" y="262" font-family="'Courier New',Consolas,monospace" font-size="14" font-weight="bold" letter-spacing="2" fill="#c084fc">♞ JUGADA LOCAL</text>
+  </g>
+</svg>
